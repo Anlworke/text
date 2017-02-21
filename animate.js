@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2014/12/20.
+ * Created by Administrator on 2014/12/10.
  */
 //返回得到当前属性值函数
 function getStyle (obj,attr){
